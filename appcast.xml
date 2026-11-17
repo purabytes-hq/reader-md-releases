@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Reader.md</title>
-        <link>https://github.com/aloaiza-dev/reader-md-releases</link>
+        <link>https://github.com/purabytes-hq/reader-md-releases</link>
         <description>Reader.md update feed</description>
         <language>en</language>
         <item>
@@ -12,7 +12,7 @@
             <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.7.4/ReaderMD-1.7.4.zip"
+            <enclosure url="https://github.com/purabytes-hq/reader-md-releases/releases/download/v1.7.4/ReaderMD-1.7.4.zip"
                        length="1394677"
                        type="application/octet-stream"
                        sparkle:edSignature="7a+5h48XZ2gRqnfeUxcOirwWo3wdVQVVpEu0ZazD8xqAJ91AIIN1UPwBNXxXWKza43DrcNQzE5S1DyzUppj1Bw=="/>
@@ -24,7 +24,7 @@
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.7.3/ReaderMD-1.7.3.zip"
+            <enclosure url="https://github.com/purabytes-hq/reader-md-releases/releases/download/v1.7.3/ReaderMD-1.7.3.zip"
                        length="1389902"
                        type="application/octet-stream"
                        sparkle:edSignature="Ko4VHAW62swp0l7m7LHVpC0dqCKZnbXDY7QnhIDgcehTWQNUtb6b77SIgkrDsTqShms1fLvSdLkQP6prD98bAg=="/>
@@ -36,7 +36,7 @@
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.7.2/ReaderMD-1.7.2.zip"
+            <enclosure url="https://github.com/purabytes-hq/reader-md-releases/releases/download/v1.7.2/ReaderMD-1.7.2.zip"
                        length="1388089"
                        type="application/octet-stream"
                        sparkle:edSignature="MfPPIlqWr4XYhIDlx652l4ayGIaadvdBoK4hcg7uMd6QnF5XwWDYVYbXMFMPJdQS+FSyfjGVfS6Piwj+foXLAw=="/>
@@ -48,7 +48,7 @@
             <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.7.1/ReaderMD-1.7.1.zip"
+            <enclosure url="https://github.com/purabytes-hq/reader-md-releases/releases/download/v1.7.1/ReaderMD-1.7.1.zip"
                        length="1385137"
                        type="application/octet-stream"
                        sparkle:edSignature="5vTcA920p22S47cKfVH3Yl5OtPDxggyi70ZWBrs4z94qeZKMzqFtFnFC8rUjgvzCeaI9JpvQFLTW//IdLQDpCQ=="/>
@@ -60,7 +60,7 @@
             <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.7/ReaderMD-1.7.zip"
+            <enclosure url="https://github.com/purabytes-hq/reader-md-releases/releases/download/v1.7/ReaderMD-1.7.zip"
                        length="1385109"
                        type="application/octet-stream"
                        sparkle:edSignature="Sph/tZP73dC1HwHXrCCKmEA81PsXhwIEHFtOnCUkS6kG2g47jdyagj2xscJ5tibcFrJUyCgJCp39wCm7rhdwCw=="/>
@@ -72,7 +72,7 @@
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.6/ReaderMD-1.6.zip"
+            <enclosure url="https://github.com/purabytes-hq/reader-md-releases/releases/download/v1.6/ReaderMD-1.6.zip"
                        length="1385091"
                        type="application/octet-stream"
                        sparkle:edSignature="hDtAmV/9tIMsl/R7ohCOVXXZhNVFG1lkXAe3emNwcnTUqep8nMnXdvP0LpcPjRn31/h2sY++J1PKqFfCTENQDg=="/>
